@@ -18,10 +18,3 @@
     <h1>2 sayısı tektir.</h1>
 <?php endif; 
 
-
-$title="Merhaba Dünya";
- echo "<h5>$title</h5>"; 
- echo "<h5>".$title."</h5>"; 
- echo "<h5>",$title,"</h5>"; 
- echo '<h5>$title</h5>'; 
-
